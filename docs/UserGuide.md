@@ -247,6 +247,7 @@ Removes the existing user profile from the system.
 This must be done before adding a new advisor.
 
 * **Command:** `user delete`
+
 ---
 ## FAQ
 
