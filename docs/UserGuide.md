@@ -275,7 +275,7 @@ This must be done before adding a new advisor.
 | `client deletepolicy` | Removes a policy from a client by index (use `client view` first). | `client deletepolicy id/<NRIC> i/<INDEX>` | `client deletepolicy id/S123A i/1` |
 
 #### Client Task (To-Do) Management
-
+    
 | Command | Description | Syntax / Arguments | Example |
 | :--- | :--- | :--- | :--- |
 | `client addtodo` | Adds a new to-do task for a specific client. | `client addtodo id/<NRIC> d/<DESC> by/<dd-MM-yyyy>` | `client addtodo id/S123A d/Follow up claim by/30-11-2025` |
